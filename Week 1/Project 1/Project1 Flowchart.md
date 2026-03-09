@@ -1,2 +1,5 @@
 
-![Flowchart](https://app.eraser.io/workspace/DXWnckbaLROt3AdgMTJO?origin=share)
+![Fowchart](<../Project 1 Flowchart.png>)
+ 
+ Click cntrl + shift + V to Preview 
+ 

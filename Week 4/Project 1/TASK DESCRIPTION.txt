@@ -1,0 +1,7 @@
+Clean the data set
+After cleaning the data set, carryout three different visualizations with matplotlib and write insights from them
+
+25/3/2026
+- Finish the assignments
+- Create the notes for the theory part
+- Really master data cleaning
